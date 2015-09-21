@@ -1,6 +1,6 @@
 public class Capitale {
 	
-	// FTW LOL
+	// FTW LOL AHAHAHHAHAHAHAHA DES BARRES DE RIRE AUX CEREALES
 	
 	//Creation des classes privées
 	private String nom;
